@@ -1,6 +1,4 @@
 Allahindus
-
-
  Console.WriteLine("Sisesta ostusumma");
  double ostusumma = double.Parse(Console.ReadLine());
  if (ostusumma > 100)
