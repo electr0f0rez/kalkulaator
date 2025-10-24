@@ -1,3 +1,5 @@
+
+```csharp
 Allahindus
  Console.WriteLine("Sisesta ostusumma");
  double ostusumma = double.Parse(Console.ReadLine());
